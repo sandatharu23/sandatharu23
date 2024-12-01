@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif)](https://nerdtechlk.com/?i=1)
+[![MasterHead](https://camo.githubusercontent.com/66d5459b94ff97cceba37596abfcb3761516822938691965a7920ef6139b31ab/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d63393965333533663736316433313833323263383533633033656263663231622e676966)](https://nerdtechlk.com/?i=1)
 <h1 align="center">Hi 👋, I'm Sandali Edirisinghe</h1>
 <h3 align="center" style="color: #8e44ad;">A Passionate Frontend & Backend Developer from Sri Lanka</h3>
 
